@@ -1,2 +1,2 @@
-# bestflix
-Página de streaming inspirado na interface da Netflix. 
+# Bestflix
+Página fictícia de streaming inspirada na interface da Netflix. 
