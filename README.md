@@ -1,4 +1,5 @@
-# Bestflix
+# BESTFLIX
+<img src="https://raw.githubusercontent.com/lluanassis/bestflix/main/imagens/titulo.png"></img><br>
 Confira: https://lluanassis.github.io/bestflix/
 
 # Sobre o projeto
